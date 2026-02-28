@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 About Me
-- 🎯 Passionate about solving real-world problems with **AI, Data Science, and Software Development**.
+- 🎯 Passionate about solving real-world problems with **AI, Quantum, Data Science, and Software Development**.
 - 📊 Skilled in **Python**, **Machine Learning**, **Deep Learning**, **React.js**, and **Cloud Solutions**.
 - 🧑‍🏫 Lecturer in **Data Science**.
 - 🌍 Advocate for **ethical AI** and technology for sustainable development.
