@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Abiodun Sojobi 👋</h1>
+  <h1>Hi there, I'm Abiodun Sojobi </h1>
   <h3>Computational Researcher | Deep Learning for Systems Biology & Quantum Chemistry</h3>
   <p><i>Designing scalable AI architectures to solve physical, biological, and chemical bottlenecks.</i></p>
 </div>
@@ -10,7 +10,7 @@
 I specialize in bridging the gap between theoretical physics/chemistry and applied machine learning. My core expertise lies in building **Physics-Informed Neural Networks (PINNs)**, **Graph Neural Networks (GNNs)**, and **Hybrid Quantum-Classical Algorithms (VQE)** to model complex biological environments and accelerate *de novo* molecular design.
 
 - 🔭 **Currently focused on:** Scientific Machine Learning (SciML), Computational Fluid Dynamics, and Generative AI for Drug Discovery.
-- 🎓 **Looking for:** Fully funded PhD / Research Assistant roles in elite European labs (Quantum Chemistry, Biomedical Physics, Cheminformatics).
+- 🎓 **Open to:** Academic collaborations and PhD/Research opportunities in Quantum Chemistry, Biomedical Physics, and Cheminformatics.
 - 🧑‍🏫 **Background:** Lecturer in Data Science, AWS Certified Solutions Architect.
 
 ---
@@ -55,8 +55,11 @@ I specialize in bridging the gap between theoretical physics/chemistry and appli
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baysquire&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baysquire&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baysquire&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baysquire&layout=compact&theme=radical)
+
 </div>
 
 ---
