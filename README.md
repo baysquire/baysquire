@@ -52,15 +52,11 @@ I specialize in bridging the gap between theoretical physics/chemistry and appli
 
 ---
 
-### 📈 GitHub Analytics
+### 📈 GitHub Analytics & Activity
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baysquire&show_icons=true&theme=radical)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=baysquire&theme=react-dark&hide_border=true&bg_color=0D1117)](https://github.com/baysquire)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baysquire&layout=compact&theme=radical)
-
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=baysquire&theme=radical&hide_border=true&background=0D1117)](https://github.com/baysquire)
 
 ---
 
