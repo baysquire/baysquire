@@ -6,43 +6,38 @@
 
 ---
 
-### About Me
+### Hi, I'm Abiodun Sojobi
+I am a physicist and software engineer based in Lagos. I build physics-inspired machine learning models to help solve clinical medical problems.
 
-I'm a System Programmer at the University of Lagos and a Data Science Lecturer at Rome Business School, Nigeria. I hold a BSc and MSc in Physics from the University of Lagos.
+*Currently researching: Chronic Kidney Disease (CKD) progression using EHR data.*
 
-My independent research focuses on applying AI and physics-based computation to medical problems - specifically kidney disease and urinary health. I'm working toward a PhD in Computational Biology or Health Data Science.
-
-- 🔬 **Research focus:** Scientific Machine Learning (SciML), Physics-Informed Neural Networks, Quantum-Classical hybrid methods, and Generative AI for drug discovery.
+- 🔬 **Research focus:** Scientific Machine Learning (SciML), Survival Analysis, Clinical Data Modeling, and Physics-Informed Neural Networks.
 - 🧑‍🏫 **Teaching:** Neural Networks, Reinforcement Learning, and applied ML to postgraduate students.
-- 🎓 **Seeking:** PhD/Research opportunities in Computational Biology, Biomedical Physics, or Health Data Science.
+- 🎓 **Looking ahead:** Exploring formal clinical research pathways in Computational Biology and Health Data Science.
 - ☁️ **Certified:** AWS Solutions Architect.
 
 ---
 
 ### Research Projects
 
-#### 1. Physics-Informed Neural Networks for Kidney Filtration Modeling
+#### 1. MIMIC-Renal-Dynamics
+* **[MIMIC-Renal-Dynamics](#)** *(Repository private pending publication)*
+  * An open-source exploration of how Chronic Kidney Disease progresses over time. I use the MIMIC-IV dataset and state-space modeling to track renal health degradation. (Includes preprocessing pipelines, survival analysis, and preprint manuscript).
+
+#### 2. Physics-Informed Neural Networks for Kidney Filtration Modeling
 * **[pinn-glomerular-filtration](https://github.com/baysquire/pinn-glomerular-filtration)**
-  * A 2D PINN that models glomerular solute transport under hypertensive conditions by embedding Poiseuille flow and convection-diffusion-reaction PDEs directly into the loss function.
+  * A 2D Physics-Informed Neural Network (PINN) that embeds convection-diffusion equations directly into the loss function to model kidney filtration under hypertensive conditions.
   * Achieved <2.5% relative L2 error against the analytical solution.
   * 📄 **Preprint:** [Zenodo](https://doi.org/10.5281/zenodo.19921854)
 
-#### 2. Hybrid Quantum-Classical Pipeline for Molecular Feature Generation
+#### 3. Hybrid Quantum-Classical Pipeline for Molecular Feature Generation
 * **[hybrid-vqe-drug-discovery](https://github.com/baysquire/hybrid-vqe-drug-discovery)**
-  * A VQE-based pipeline using PennyLane and PyTorch - a classical MLP reduces dimensionality before embedding features into a 4-qubit hardware-efficient ansatz for ground-state energy estimation.
+  * An experimental pipeline combining classical multi-layer perceptrons with a 4-qubit quantum circuit (PennyLane) for molecular feature generation.
   * 📄 **Preprint:** [Zenodo](https://doi.org/10.5281/zenodo.20020464)
 
-#### 3. Graph Neural Networks for Toxicity Prediction
+#### 4. Graph Neural Networks for Toxicity Prediction
 * **[Tox21-GNN-Property-Prediction](https://github.com/baysquire/Tox21-GNN-Property-Prediction)**
-  * A Message Passing Neural Network (MPNN) built with PyTorch Geometric for multi-label toxicity prediction across 12 Tox21 assays, with custom handling for class imbalance and missing targets.
-
-#### 4. Generative Molecular Design
-* **[SMILES-VAE-Generative-Design](https://github.com/baysquire/SMILES-VAE-Generative-Design)**
-  * A GRU-based Variational Autoencoder for generating novel, chemically valid molecular structures from SMILES representations, with RDKit validation.
-
-#### 5. CKD Mendelian Randomization Pilot
-* **[CKD-Mendelian-Randomization-Pilot](https://github.com/baysquire/CKD-Mendelian-Randomization-Pilot)**
-  * An R-based Mendelian Randomization analysis exploring causal relationships in Chronic Kidney Disease using GWAS summary statistics.
+  * A Message Passing Neural Network (MPNN) built with PyTorch Geometric for multi-label toxicity prediction across 12 Tox21 assays.
 
 ---
 
@@ -57,8 +52,8 @@ My independent research focuses on applying AI and physics-based computation to 
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-* **AI & SciML:** PyTorch, PyTorch Geometric, TensorFlow, Scikit-Learn, PINNs.
-* **Domain:** RDKit (Cheminformatics), PennyLane/Qiskit (Quantum), R (Biostatistics).
+* **AI & SciML:** PyTorch, PyTorch Geometric, Scikit-Learn, Scikit-Survival, PINNs.
+* **Domain:** EHR Data Analysis, RDKit (Cheminformatics), R (Biostatistics).
 * **Infrastructure:** AWS, Docker, Git, Linux.
 
 ---
